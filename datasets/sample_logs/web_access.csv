@@ -1,5 +1,4 @@
 timestamp,ip,method,path,status,user_agent
 2023-01-15T09:02:12,192.168.1.20,GET,/index.html,200,curl/7.68.0
 2023-01-15T09:02:15,192.168.1.20,POST,/login.php,302,Python-requests/2.25.1
-
 These logs are not real it is only for study
