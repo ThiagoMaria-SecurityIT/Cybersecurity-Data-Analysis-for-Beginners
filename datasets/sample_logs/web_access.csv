@@ -1,4 +1,6 @@
 timestamp,ip,method,path,status,user_agent
 2023-01-15T09:02:12,192.168.1.20,GET,/index.html,200,curl/7.68.0
 2023-01-15T09:02:15,192.168.1.20,POST,/login.php,302,Python-requests/2.25.1
-These logs are not real it is only for study,,,,,
+2023-01-15T09:03:01,198.51.100.3,GET,/wp-admin,403,Mozilla/5.0
+2023-01-15T09:03:05,198.51.100.3,GET,/wp-login.php,200,Mozilla/5.0
+2023-01-15T09:03:10,192.168.1.5,GET,/docs/api.pdf,200,Mozilla/5.0
