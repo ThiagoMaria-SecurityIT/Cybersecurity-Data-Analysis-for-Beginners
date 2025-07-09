@@ -1,9 +1,18 @@
 [
   {
-    "timestamp": "2025-01-15T09:05:00Z",
+    "timestamp": "2023-01-15T09:05:00Z",
     "alert_type": "Port Scan",
-    "src_ip": "45.66.12.9",
+    "src_ip": "45.33.12.8",
     "dst_ip": "10.0.0.12",
-    "severity": "High"
+    "severity": "High",
+    "protocol": "TCP"
+  },
+  {
+    "timestamp": "2023-01-15T09:06:15Z",
+    "alert_type": "SQL Injection Attempt",
+    "src_ip": "198.51.100.3",
+    "dst_ip": "10.0.0.15",
+    "severity": "Critical",
+    "url": "/login.php"
   }
 ]
