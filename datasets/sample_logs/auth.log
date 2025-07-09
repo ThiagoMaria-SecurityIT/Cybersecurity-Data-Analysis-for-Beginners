@@ -1,0 +1,5 @@
+Jan 15 09:01:23 server1 sshd[12345]: Failed password for root from 192.168.1.15 port 51322 ssh2
+Jan 15 09:01:25 server1 sshd[12345]: Failed password for root from 192.168.1.15 port 51322 ssh2
+Jan 15 09:01:30 server1 sshd[12345]: Accepted password for admin from 10.2.1.5 port 47152 ssh2
+
+These logs are not real it is only for study
