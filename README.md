@@ -1,4 +1,7 @@
-# Cybersecurity Data Analysis for Beginners
+# Cybersecurity Data Analysis for Beginners - Under construction 🚧 July 09, 2025 - Contributions are Welcome! 🚧
+🚧 Again: This repository is under construction - Codes and content will be revised until July 30, 2025  🚧  
+This repository will be a hands-on training to guide new cybersecurity analysts  
+
 
 **Hands-on training for security monitoring using ISO27001/NIST controls**  
 ![Security Analytics](https://img.shields.io/badge/domain-security_analytics-blue) 
@@ -115,3 +118,19 @@ Body:
 
 ---
 
+## About the Author   
+
+**Thiago Maria - From Brazil to the World 🌎**  
+*Senior Security Information Professional | Passionate Programmer | AI Developer*
+
+With a professional background in security analysis and a deep passion for programming, I created this Github acc to share some knowledge about security information, cybersecurity, Python and AI development practices. Most of my work here focuses on implementing security-first approaches in developer tools while maintaining usability.
+
+Lets Connect:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/thiago-cequeira-99202239/)  
+[![Hugging Face](https://img.shields.io/badge/🤗Hugging_Face-AI_projects-yellow)](https://huggingface.co/ThiSecur)
+
+ 
+## Ways to Contribute:   
+ Want to see more upgrades? Help me keep it updated!    
+ [![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-red)](https://github.com/sponsors/ThiagoMaria-SecurityIT) 
