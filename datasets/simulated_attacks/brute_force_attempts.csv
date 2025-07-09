@@ -1,4 +1,4 @@
-timestamp,source_ip,username,attempts,protocol
-2023-01-15T09:00:00,192.168.1.100,root,5,SSH
-2023-01-15T09:05:00,192.168.1.101,admin,3,RDP
-These logs are not real it is only for study,,,,
+timestamp,source_ip,username,attempts,protocol,success
+2023-01-15T09:00:00,192.168.1.100,root,5,SSH,0
+2023-01-15T09:05:00,192.168.1.101,admin,3,RDP,1
+2023-01-15T09:10:00,203.0.113.42,guest,10,HTTP,0
