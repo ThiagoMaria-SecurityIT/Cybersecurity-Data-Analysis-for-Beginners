@@ -3,7 +3,7 @@
 **Date**: 2025-01-15  
 **Time First Detected**: 09:15 AM  
 **Analyst**: Jane Doe  
-**Priority**: Medium  
+**Priority**: Medium  <- Attention here
 
 ---
 
